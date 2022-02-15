@@ -1,0 +1,9 @@
+{
+    "name": "ANZ Melview",
+    "render_readme": false,
+    "domains": [
+        "sensor"
+    ],
+    "homeassistant": "2022.2.2",
+    "iot_class": "cloud_poll"
+}
